@@ -44,7 +44,7 @@ pz5-db/
 
 SELECT * FROM tasks:
 
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/aab55012-be2b-40a1-b6ba-cb278d16dc70" />
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/a78dfd1d-5750-4b86-a889-a8d2309df69c" />
 
 # Фрагменты кода
 ```
