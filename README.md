@@ -23,31 +23,28 @@
 # Структура проекта
 Дерево структуры проекта: 
 ```
-pz4-todo/
-├── internal/
-│   └── task/
-│       ├── handler.go
-│       ├── model.go
-│       └── repo.go
-├── pkg/
-│   └── middleware/
-│       ├── cors.go
-│       └── logger.go
+pz5-db/
+├── .env
+├── db.go
 ├── go.mod
 ├── go.sum
-└── main.go
+├── main.go
+└── repository.go
 ```
 
 # Скриншоты
 
 Создание таблицы в psql:
 
-
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/52edf383-7716-4d22-8ad2-81799c95ba13" />
 
 Успешный вывод:
 
+<img width="507" height="200" alt="image" src="https://github.com/user-attachments/assets/ce43ad2c-a218-48ca-99ec-9b4c2e7fff81" />
 
 SELECT * FROM tasks:
+
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/aab55012-be2b-40a1-b6ba-cb278d16dc70" />
 
 # Фрагменты кода
 ```
